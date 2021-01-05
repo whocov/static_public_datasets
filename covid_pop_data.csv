@@ -1,0 +1,239 @@
+﻿WHO_REGION,ISO_2_CODE,ISO_3_CODE,ADM0_VIZ_N,Total_pop,YEAR,Source
+EMRO,AF,AFG,Afghanistan,38928346,2020,UN Population division
+EURO,AL,ALB,Albania,2877797,2020,UN Population division
+AFRO,DZ,DZA,Algeria,43851044,2020,UN Population division
+WPRO,AS,ASM,American Samoa,55197,2020,UN Population division
+EURO,AD,AND,Andorra,77265,2020,UN Population division
+AFRO,AO,AGO,Angola,32866272,2020,UN Population division
+AMRO,AI,AIA,Anguilla,15002,2020,UN Population division
+AMRO,AG,ATG,Antigua and Barbuda,97929,2020,UN Population division
+AMRO,AR,ARG,Argentina,45195774,2020,UN Population division
+EURO,AM,ARM,Armenia,2963243,2020,UN Population division
+AMRO,AW,ABW,Aruba,106766,2020,UN Population division
+WPRO,AU,AUS,Australia,25499884,2020,UN Population division
+EURO,AT,AUT,Austria,9006398,2020,UN Population division
+EURO,AZ,AZE,Azerbaijan,10139177,2020,UN Population division
+AMRO,BS,BHS,Bahamas,393244,2020,UN Population division
+EMRO,BH,BHR,Bahrain,1701575,2020,UN Population division
+SEARO,BD,BGD,Bangladesh,164689383,2020,UN Population division
+AMRO,BB,BRB,Barbados,287375,2020,UN Population division
+EURO,BY,BLR,Belarus,9449323,2020,UN Population division
+EURO,BE,BEL,Belgium,11589623,2020,UN Population division
+AMRO,BZ,BLZ,Belize,397628,2020,UN Population division
+AFRO,BJ,BEN,Benin,12123200,2020,UN Population division
+AMRO,BM,BMU,Bermuda,62273,2020,UN Population division
+SEARO,BT,BTN,Bhutan,771608,2020,UN Population division
+AMRO,BO,BOL,Bolivia (Plurinational State of),11673021,2020,UN Population division
+AMRO,BQ,BES,"Bonaire, Sint Eustatius and Saba",26221,2020,UN Population division
+AMRO,XA,XAA,Bonaire ,20915,2020,Statistics Netherlands CBS (Centraal Bureau voor de Statistiek)
+AMRO,XB,XBA,Sint Eustatius,3139,2020,Statistics Netherlands CBS (Centraal Bureau voor de Statistiek)
+AMRO,XC,XCA,Saba,1933,2020,Statistics Netherlands CBS (Centraal Bureau voor de Statistiek)
+EURO,BA,BIH,Bosnia and Herzegovina,3280819,2020,UN Population division
+AFRO,BW,BWA,Botswana,2351627,2020,UN Population division
+AMRO,BR,BRA,Brazil,212559417,2020,UN Population division
+AMRO,VG,VGB,British Virgin Islands,30237,2020,UN Population division
+WPRO,BN,BRN,Brunei Darussalam,437479,2020,UN Population division
+EURO,BG,BGR,Bulgaria,6948445,2020,UN Population division
+AFRO,BF,BFA,Burkina Faso,20903273,2020,UN Population division
+AFRO,BI,BDI,Burundi,11890784,2020,UN Population division
+AFRO,CV,CPV,Cabo Verde,555987,2020,UN Population division
+WPRO,KH,KHM,Cambodia,16718965,2020,UN Population division
+AFRO,CM,CMR,Cameroon,26545863,2020,UN Population division
+AMRO,CA,CAN,Canada,37742154,2020,UN Population division
+AMRO,KY,CYM,Cayman Islands,65720,2020,UN Population division
+AFRO,CF,CAF,Central African Republic,4829767,2020,UN Population division
+AFRO,TD,TCD,Chad,16425864,2020,UN Population division
+AMRO,CL,CHL,Chile,19116201,2020,UN Population division
+WPRO,CN,CHN,China,1471286879,2020,UN Population division
+AMRO,CO,COL,Colombia,50882891,2020,UN Population division
+AFRO,KM,COM,Comoros,869601,2020,UN Population division
+AFRO,CG,COG,Congo,5518087,2020,UN Population division
+WPRO,CK,COK,Cook Islands,17564,2020,UN Population division
+AMRO,CR,CRI,Costa Rica,5094118,2020,UN Population division
+AFRO,CI,CIV,Côte d’Ivoire,26378274,2020,UN Population division
+EURO,HR,HRV,Croatia,4105267,2020,UN Population division
+AMRO,CU,CUB,Cuba,11326616,2020,UN Population division
+AMRO,CW,CUW,Curaçao,164093,2020,UN Population division
+EURO,CY,CYP,Cyprus,1207359,2020,UN Population division
+EURO,CZ,CZE,Czechia,10708981,2020,UN Population division
+SEARO,KP,PRK,Democratic People's Republic of Korea,25778816,2020,UN Population division
+AFRO,CD,COD,Democratic Republic of the Congo,89561403,2020,UN Population division
+EURO,DK,DNK,Denmark,5792202,2020,UN Population division
+EMRO,DJ,DJI,Djibouti,988000,2020,UN Population division
+AMRO,DM,DMA,Dominica,71991,2020,UN Population division
+AMRO,DO,DOM,Dominican Republic,10847910,2020,UN Population division
+AMRO,EC,ECU,Ecuador,17643054,2020,UN Population division
+EMRO,EG,EGY,Egypt,102334404,2020,UN Population division
+AMRO,SV,SLV,El Salvador,6486205,2020,UN Population division
+AFRO,GQ,GNQ,Equatorial Guinea,1402985,2020,UN Population division
+AFRO,ER,ERI,Eritrea,3546421,2020,UN Population division
+EURO,EE,EST,Estonia,1326535,2020,UN Population division
+AFRO,SZ,SWZ,Eswatini,1160164,2020,UN Population division
+AFRO,ET,ETH,Ethiopia,114963588,2020,UN Population division
+AMRO,FK,FLK,Falkland Islands (Malvinas),3483,2020,UN Population division
+EURO,FO,FRO,Faroe Islands,48865,2020,UN Population division
+WPRO,FJ,FJI,Fiji,896445,2020,UN Population division
+EURO,FI,FIN,Finland,5540720,2020,UN Population division
+EURO,FR,FRA,France,65273511,2020,UN Population division
+AMRO,GF,GUF,French Guiana,298682,2020,UN Population division
+WPRO,PF,PYF,French Polynesia,280908,2020,UN Population division
+AFRO,GA,GAB,Gabon,2225734,2020,UN Population division
+AFRO,GM,GMB,Gambia,2416668,2020,UN Population division
+EURO,GE,GEO,Georgia,3989167,2020,UN Population division
+EURO,DE,DEU,Germany,83783942,2020,UN Population division
+AFRO,GH,GHA,Ghana,31072940,2020,UN Population division
+EURO,GI,GIB,Gibraltar,33691,2020,UN Population division
+EURO,GR,GRC,Greece,10423054,2020,UN Population division
+EURO,GL,GRL,Greenland,56772,2020,UN Population division
+AMRO,GD,GRD,Grenada,112523,2020,UN Population division
+AMRO,GP,GLP,Guadeloupe,400124,2020,UN Population division
+WPRO,GU,GUM,Guam,168775,2020,UN Population division
+AMRO,GT,GTM,Guatemala,17915568,2020,UN Population division
+EURO,GG,GGY,Guernsey,63196,2019,Government of Guernsey
+AFRO,GN,GIN,Guinea,13132795,2020,UN Population division
+AFRO,GW,GNB,Guinea-Bissau,1968001,2020,UN Population division
+AMRO,GY,GUY,Guyana,786552,2020,UN Population division
+AMRO,HT,HTI,Haiti,11402528,2020,UN Population division
+EURO,VA,VAT,Holy See,809,2020,UN Population division
+AMRO,HN,HND,Honduras,9904607,2020,UN Population division
+EURO,HU,HUN,Hungary,9660351,2020,UN Population division
+EURO,IS,ISL,Iceland,341243,2020,UN Population division
+SEARO,IN,IND,India,1380004385,2020,UN Population division
+SEARO,ID,IDN,Indonesia,273523615,2020,UN Population division
+EMRO,IR,IRN,Iran (Islamic Republic of),83992949,2020,UN Population division
+EMRO,IQ,IRQ,Iraq,40222493,2020,UN Population division
+EURO,IE,IRL,Ireland,4937786,2020,UN Population division
+EURO,IM,IMN,Isle of Man,85032,2020,UN Population division
+EURO,IL,ISR,Israel,8655535,2020,UN Population division
+EURO,IT,ITA,Italy,60461826,2020,UN Population division
+AMRO,JM,JAM,Jamaica,2961167,2020,UN Population division
+WPRO,JP,JPN,Japan,126476461,2020,UN Population division
+EURO,JE,JEY,Jersey,108800,2020,Government of Jersey
+EMRO,JO,JOR,Jordan,10203134,2020,UN Population division
+EURO,KZ,KAZ,Kazakhstan,18776707,2020,UN Population division
+AFRO,KE,KEN,Kenya,53771296,2020,UN Population division
+WPRO,KI,KIR,Kiribati,119449,2020,UN Population division
+EURO,XK,XKX,Kosovo[1],1860381,2020,Kosovo Agency for Statistics
+EMRO,KW,KWT,Kuwait,4270571,2020,UN Population division
+EURO,KG,KGZ,Kyrgyzstan,6524195,2020,UN Population division
+WPRO,LA,LAO,Lao People's Democratic Republic,7275560,2020,UN Population division
+EURO,LV,LVA,Latvia,1886198,2020,UN Population division
+EMRO,LB,LBN,Lebanon,6825445,2020,UN Population division
+AFRO,LS,LSO,Lesotho,2142249,2020,UN Population division
+AFRO,LR,LBR,Liberia,5057681,2020,UN Population division
+EMRO,LY,LBY,Libya,6871292,2020,UN Population division
+EURO,LI,LIE,Liechtenstein,38137,2020,UN Population division
+EURO,LT,LTU,Lithuania,2722289,2020,UN Population division
+EURO,LU,LUX,Luxembourg,625978,2020,UN Population division
+AFRO,MG,MDG,Madagascar,27691018,2020,UN Population division
+AFRO,MW,MWI,Malawi,19129952,2020,UN Population division
+WPRO,MY,MYS,Malaysia,32365999,2020,UN Population division
+SEARO,MV,MDV,Maldives,540544,2020,UN Population division
+AFRO,ML,MLI,Mali,20250833,2020,UN Population division
+EURO,MT,MLT,Malta,441543,2020,UN Population division
+WPRO,MH,MHL,Marshall Islands,59194,2020,UN Population division
+AMRO,MQ,MTQ,Martinique,375265,2020,UN Population division
+AFRO,MR,MRT,Mauritania,4649658,2020,UN Population division
+AFRO,MU,MUS,Mauritius,1271768,2020,UN Population division
+AFRO,YT,MYT,Mayotte,272815,2020,UN Population division
+AMRO,MX,MEX,Mexico,128932753,2020,UN Population division
+WPRO,FM,FSM,Micronesia (Federated States of),115023,2020,UN Population division
+EURO,MC,MCO,Monaco,39244,2020,UN Population division
+WPRO,MN,MNG,Mongolia,3278290,2020,UN Population division
+EURO,ME,MNE,Montenegro,628066,2020,UN Population division
+AMRO,MS,MSR,Montserrat,4999,2020,UN Population division
+EMRO,MA,MAR,Morocco,36910560,2020,UN Population division
+AFRO,MZ,MOZ,Mozambique,31255435,2020,UN Population division
+SEARO,MM,MMR,Myanmar,54409800,2020,UN Population division
+AFRO,NA,NAM,Namibia,2540905,2020,UN Population division
+WPRO,NR,NRU,Nauru,10834,2020,UN Population division
+SEARO,NP,NPL,Nepal,29136808,2020,UN Population division
+EURO,NL,NLD,Netherlands,17134872,2020,UN Population division
+WPRO,NC,NCL,New Caledonia,285498,2020,UN Population division
+WPRO,NZ,NZL,New Zealand,4822233,2020,UN Population division
+AMRO,NI,NIC,Nicaragua,6624554,2020,UN Population division
+AFRO,NE,NER,Niger,24206644,2020,UN Population division
+AFRO,NG,NGA,Nigeria,206139589,2020,UN Population division
+WPRO,NU,NIU,Niue,1618,2020,UN Population division
+EURO,MK,MKD,North Macedonia,2083380,2020,UN Population division
+WPRO,MP,MNP,Northern Mariana Islands (Commonwealth of the),57557,2020,UN Population division
+EURO,NO,NOR,Norway,5421241,2020,UN Population division
+EMRO,PS,PSE,occupied Palestinian territory,5101414,2020,UN Population division
+EMRO,OM,OMN,Oman,5106626,2020,UN Population division
+EMRO,PK,PAK,Pakistan,220892340,2020,UN Population division
+WPRO,PW,PLW,Palau,18092,2020,UN Population division
+AMRO,PA,PAN,Panama,4314767,2020,UN Population division
+WPRO,PG,PNG,Papua New Guinea,8947024,2020,UN Population division
+AMRO,PY,PRY,Paraguay,7132538,2020,UN Population division
+AMRO,PE,PER,Peru,32971854,2020,UN Population division
+WPRO,PH,PHL,Philippines,109581078,2020,UN Population division
+WPRO,PN,PCN,Pitcairn Islands,50,2020,The Government of the Pitcairn Islands
+EURO,PL,POL,Poland,37846611,2020,UN Population division
+EURO,PT,PRT,Portugal,10196709,2020,UN Population division
+AMRO,PR,PRI,Puerto Rico,2860853,2020,UN Population division
+EMRO,QA,QAT,Qatar,2881053,2020,UN Population division
+WPRO,KR,KOR,Republic of Korea,51269185,2020,UN Population division
+EURO,MD,MDA,Republic of Moldova,4033963,2020,UN Population division
+AFRO,RE,REU,Réunion,895312,2020,UN Population division
+EURO,RO,ROU,Romania,19237691,2020,UN Population division
+EURO,RU,RUS,Russian Federation,145934462,2020,UN Population division
+AFRO,RW,RWA,Rwanda,12952218,2020,UN Population division
+AMRO,BL,BLM,Saint Barthélemy,9885,2020,UN Population division
+AFRO,SH,SHN,Saint Helena,6071,2020,UN Population division
+AMRO,KN,KNA,Saint Kitts and Nevis,53192,2020,UN Population division
+AMRO,LC,LCA,Saint Lucia,183627,2020,UN Population division
+AMRO,MF,MAF,Saint Martin,38659,2020,UN Population division
+AMRO,PM,SPM,Saint Pierre and Miquelon,5795,2020,UN Population division
+AMRO,VC,VCT,Saint Vincent and the Grenadines,110940,2020,UN Population division
+WPRO,WS,WSM,Samoa,198414,2020,UN Population division
+EURO,SM,SMR,San Marino,33938,2020,UN Population division
+AFRO,ST,STP,Sao Tome and Principe,219159,2020,UN Population division
+EMRO,SA,SAU,Saudi Arabia,34813871,2020,UN Population division
+AFRO,SN,SEN,Senegal,16743927,2020,UN Population division
+EURO,RS,SRB,Serbia,6963764,2019,Statistical Office of the Republic of Serbia
+AFRO,SC,SYC,Seychelles,98347,2020,UN Population division
+AFRO,SL,SLE,Sierra Leone,7976983,2020,UN Population division
+WPRO,SG,SGP,Singapore,5850342,2020,UN Population division
+AMRO,SX,SXM,Sint Maarten,42882,2020,UN Population division
+EURO,SK,SVK,Slovakia,5459642,2020,UN Population division
+EURO,SI,SVN,Slovenia,2078938,2020,UN Population division
+WPRO,SB,SLB,Solomon Islands,686884,2020,UN Population division
+EMRO,SO,SOM,Somalia,15893222,2020,UN Population division
+AFRO,ZA,ZAF,South Africa,59308690,2020,UN Population division
+AFRO,SS,SSD,South Sudan,11193725,2020,UN Population division
+EURO,ES,ESP,Spain,46754778,2020,UN Population division
+SEARO,LK,LKA,Sri Lanka,21413249,2020,UN Population division
+EMRO,SD,SDN,Sudan,43849260,2020,UN Population division
+AMRO,SR,SUR,Suriname,586632,2020,UN Population division
+EURO,SE,SWE,Sweden,10099265,2020,UN Population division
+EURO,CH,CHE,Switzerland,8654622,2020,UN Population division
+EMRO,SY,SYR,Syrian Arab Republic,17500658,2020,UN Population division
+EURO,TJ,TJK,Tajikistan,9537645,2020,UN Population division
+SEARO,TH,THA,Thailand,69799978,2020,UN Population division
+EURO,GB,GBR,The United Kingdom,67886011,2020,UN Population division
+SEARO,TL,TLS,Timor-Leste,1318445,2020,UN Population division
+AFRO,TG,TGO,Togo,8278724,2020,UN Population division
+WPRO,TK,TKL,Tokelau,1350,2020,UN Population division
+WPRO,TO,TON,Tonga,105695,2020,UN Population division
+AMRO,TT,TTO,Trinidad and Tobago,1399488,2020,UN Population division
+EMRO,TN,TUN,Tunisia,11818619,2020,UN Population division
+EURO,TR,TUR,Turkey,84339067,2020,UN Population division
+EURO,TM,TKM,Turkmenistan,6031200,2020,UN Population division
+AMRO,TC,TCA,Turks and Caicos Islands,38718,2020,UN Population division
+WPRO,TV,TUV,Tuvalu,11792,2020,UN Population division
+AFRO,UG,UGA,Uganda,45741007,2020,UN Population division
+EURO,UA,UKR,Ukraine,43733762,2020,UN Population division
+EMRO,AE,ARE,United Arab Emirates,9890402,2020,UN Population division
+AFRO,TZ,TZA,United Republic of Tanzania,59734218,2020,UN Population division
+AMRO,US,USA,United States of America,331002651,2020,UN Population division
+AMRO,VI,VIR,United States Virgin Islands,104425,2020,UN Population division
+AMRO,UY,URY,Uruguay,3473730,2020,UN Population division
+EURO,UZ,UZB,Uzbekistan,33469203,2020,UN Population division
+WPRO,VU,VUT,Vanuatu,307145,2020,UN Population division
+AMRO,VE,VEN,Venezuela (Bolivarian Republic of),28435940,2020,UN Population division
+WPRO,VN,VNM,Viet Nam,97338579,2020,UN Population division
+WPRO,WF,WLF,Wallis and Futuna,11246,2020,UN Population division
+AFRO,EH,ESH,Western Sahara,597339,2020,UN Population division
+EMRO,YE,YEM,Yemen,29825964,2020,UN Population division
+AFRO,ZM,ZMB,Zambia,18383955,2020,UN Population division
+AFRO,ZW,ZWE,Zimbabwe,14862924,2020,UN Population division
