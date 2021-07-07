@@ -1,0 +1,215 @@
+report_country,state,population,source,year
+Nepal,Province 1,4833862,UNFPA,2019
+Nepal,Province 2,6017677,UNFPA,2019
+Nepal,Bagmati Pradesh,6182081,UNFPA,2019
+Nepal,Gandaki Pradesh,2487314,UNFPA,2019
+Nepal,Lumbini,4933158,UNFPA,2019
+Nepal,Karnali Pradesh,1743006,UNFPA,2019
+Nepal,Sudurpashim Pradesh,2825676,UNFPA,2019
+Bangladesh,Barisal,8325666,UNFPA,2019
+Bangladesh,Chittagong,28423019,UNFPA,2019
+Bangladesh,Dhaka,36433505,UNFPA,2019
+Bangladesh,Khulna,15687759,UNFPA,2019
+Bangladesh,Mymensingh,10990913,UNFPA,2019
+Bangladesh,Rajshahi,18484858,UNFPA,2019
+Bangladesh,Rangpur,15787758,UNFPA,2019
+Bangladesh,Sylhet,9910219,UNFPA,2019
+Bhutan,Bumthang,18203,UNFPA,2021
+Bhutan,Chukha,69678,UNFPA,2021
+Bhutan,Daga,25586,UNFPA,2021
+Bhutan,Gasa,4222,UNFPA,2021
+Bhutan,Haa,13786,UNFPA,2021
+Bhutan,Lhuntshi,13806,UNFPA,2021
+Bhutan,Mongar,36561,UNFPA,2021
+Bhutan,Paro,49990,UNFPA,2021
+Bhutan,Pemagatsel,23777,UNFPA,2021
+Bhutan,Punakha,30380,UNFPA,2021
+Bhutan,Samdrup Jongkhar,34961,UNFPA,2021
+Bhutan,Samtse,62977,UNFPA,2021
+Bhutan,Sarpang,48776,UNFPA,2021
+Bhutan,Thimphu,154379,UNFPA,2021
+Bhutan,Trashigang,43429,UNFPA,2021
+Bhutan,Trongsa,22276,UNFPA,2021
+Bhutan,Tsirang,23493,UNFPA,2021
+Bhutan,Wangdue,45911,UNFPA,2021
+Bhutan,Tashiyanse,16831,UNFPA,2021
+Bhutan,Zhemgang,17109,UNFPA,2021
+Myanmar,Kachin,1969048,UNFPA,2021
+Myanmar,Kayah,337195,UNFPA,2021
+Myanmar,Kayin,1626656,UNFPA,2021
+Myanmar,Chin,530540,UNFPA,2021
+Myanmar,Sagaing,5646777,UNFPA,2021
+Myanmar,Tanintharyi,1511318,UNFPA,2021
+Myanmar,Bago,4957734,UNFPA,2021
+Myanmar,Magway,3927504,UNFPA,2021
+Myanmar,Mandalay,6625941,UNFPA,2021
+Myanmar,Mon,1969225,UNFPA,2021
+Myanmar,Rakhine,3366140,UNFPA,2021
+Myanmar,Yangon,8664431,UNFPA,2021
+Myanmar,Shan,6574854,UNFPA,2021
+Myanmar,Ayeyarwady,6266671,UNFPA,2021
+Myanmar,Nay Pyi Taw,1320946,UNFPA,2021
+Thailand,Amnat Charoen,203893,UNFPA,2020
+Thailand,Ang Thong,216643,UNFPA,2020
+Thailand,Bueng Kan,306619,UNFPA,2020
+Thailand,Buri Ram,985709,UNFPA,2020
+Thailand,Chachoengsao,738516,UNFPA,2020
+Thailand,Chai Nat,234108,UNFPA,2020
+Thailand,Chaiyaphum,764624,UNFPA,2020
+Thailand,Chanthaburi,442591,UNFPA,2020
+Thailand,Chiang Mai,1809819,UNFPA,2020
+Thailand,Chiang Rai,1089821,UNFPA,2020
+Thailand,Chon Buri,2147385,UNFPA,2020
+Thailand,Chumphon,441213,UNFPA,2020
+Thailand,Kalasin,664356,UNFPA,2020
+Thailand,Kamphaeng Phet,842777,UNFPA,2020
+Thailand,Kanchanaburi,778936,UNFPA,2020
+Thailand,Khon Kaen,1630099,UNFPA,2020
+Thailand,Krabi,347995,UNFPA,2020
+Thailand,Krung Thep Maha Nakhon,10709136,UNFPA,2020
+Thailand,Lampang,632799,UNFPA,2020
+Thailand,Lamphun,377527,UNFPA,2020
+Thailand,Loei,446635,UNFPA,2020
+Thailand,Lop Buri,718935,UNFPA,2020
+Thailand,Mae Hong Son,187041,UNFPA,2020
+Thailand,Maha Sarakham,655502,UNFPA,2020
+Thailand,Mukdahan,365780,UNFPA,2020
+Thailand,Nakhon Nayok,227464,UNFPA,2020
+Thailand,Nakhon Pathom,1028904,UNFPA,2020
+Thailand,Nakhon Phanom,449625,UNFPA,2020
+Thailand,Nakhon Ratchasima,2368321,UNFPA,2020
+Thailand,Nakhon Sawan,826586,UNFPA,2020
+Thailand,Nakhon Si Thammarat,1260910,UNFPA,2020
+Thailand,Nan,402916,UNFPA,2020
+Thailand,Narathiwat,610304,UNFPA,2020
+Thailand,Nong Bua Lamphu,438010,UNFPA,2020
+Thailand,Nong Khai,379636,UNFPA,2020
+Thailand,Nonthaburi,1940476,UNFPA,2020
+Thailand,Pathum Thani,2352209,UNFPA,2020
+Thailand,Pattani,557875,UNFPA,2020
+Thailand,Phangnga,254114,UNFPA,2020
+Thailand,Phatthalung,419456,UNFPA,2020
+Thailand,Phayao,313682,UNFPA,2020
+Thailand,Phetchabun,821626,UNFPA,2020
+Thailand,Phetchaburi,456851,UNFPA,2020
+Thailand,Phichit,475920,UNFPA,2020
+Thailand,Phitsanulok,938009,UNFPA,2020
+Thailand,Phra Nakhon Si Ayutthaya,998279,UNFPA,2020
+Thailand,Phrae,335189,UNFPA,2020
+Thailand,Phuket,962681,UNFPA,2020
+Thailand,Prachin Buri,669420,UNFPA,2020
+Thailand,Prachuap Khiri Khan,454323,UNFPA,2020
+Thailand,Ranong,340692,UNFPA,2020
+Thailand,Ratchaburi,721366,UNFPA,2020
+Thailand,Rayong,1188389,UNFPA,2020
+Thailand,Roi Et,848096,UNFPA,2020
+Thailand,Sa Kaeo,565874,UNFPA,2020
+Thailand,Sakon Nakhon,768297,UNFPA,2020
+Thailand,Samut Prakan,2968727,UNFPA,2020
+Thailand,Samut Sakhon,1580413,UNFPA,2020
+Thailand,Samut Songkhram,152998,UNFPA,2020
+Thailand,Saraburi,802049,UNFPA,2020
+Thailand,Satun,270993,UNFPA,2020
+Thailand,Si Sa Ket,723648,UNFPA,2020
+Thailand,Sing Buri,155156,UNFPA,2020
+Thailand,Songkhla,1574431,UNFPA,2020
+Thailand,Sukhothai,596662,UNFPA,2020
+Thailand,Suphan Buri,748248,UNFPA,2020
+Thailand,Surat Thani,1051922,UNFPA,2020
+Thailand,Surin,860410,UNFPA,2020
+Thailand,Tak,510728,UNFPA,2020
+Thailand,Trang,540949,UNFPA,2020
+Thailand,Trat,264085,UNFPA,2020
+Thailand,Ubon Ratchathani,1614923,UNFPA,2020
+Thailand,Udon Thani,1020066,UNFPA,2020
+Thailand,Uthai Thani,260998,UNFPA,2020
+Thailand,Uttaradit,371390,UNFPA,2020
+Thailand,Yala,409580,UNFPA,2020
+Thailand,Yasothon,385065,UNFPA,2020
+Indonesia,Aceh,5388093,UNFPA,2020
+Indonesia,Bali,4414431,UNFPA,2020
+Indonesia,Banten,12895258,UNFPA,2020
+Indonesia,Bengkulu,1994349,UNFPA,2020
+Indonesia,DI Yogyakarta,3919197,UNFPA,2020
+Indonesia,DKI Jakarta,10576418,UNFPA,2020
+Indonesia,Gorontalo,1186261,UNFPA,2020
+Indonesia,Jambi,3604186,UNFPA,2020
+Indonesia,Jawa Barat,49565166,UNFPA,2020
+Indonesia,Jawa Tengah,34738244,UNFPA,2020
+Indonesia,Jawa Timur,39955941,UNFPA,2020
+Indonesia,Kalimantan Barat,5104900,UNFPA,2020
+Indonesia,Kalimantan Selatan,4268610,UNFPA,2020
+Indonesia,Kalimantan Tengah,2686252,UNFPA,2020
+Indonesia,Kalimantan Timur,3664673,UNFPA,2020
+Indonesia,Kalimantan Utara,708352,UNFPA,2020
+Indonesia,Bangka Belitung,1469809,UNFPA,2020
+Indonesia,Kepulauan Riau,2309529,UNFPA,2020
+Indonesia,Lampung,8534849,UNFPA,2020
+Indonesia,Maluku,1787087,UNFPA,2020
+Indonesia,Maluku Utara,1252317,UNFPA,2020
+Indonesia,Nusa Tenggara Barat,5225915,UNFPA,2020
+Indonesia,Nusa Tenggara Timur,5513402,UNFPA,2020
+Indonesia,Papua,3393075,UNFPA,2020
+Indonesia,Papua Barat,986024,UNFPA,2020
+Indonesia,Riau,6951217,UNFPA,2020
+Indonesia,Sulawesi Barat,1378110,UNFPA,2020
+Indonesia,Sulawesi Selatan,8888762,UNFPA,2020
+Indonesia,Sulawesi Tengah,3081720,UNFPA,2020
+Indonesia,Sulawesi Tenggara,2703466,UNFPA,2020
+Indonesia,Sulawesi Utara,2512942,UNFPA,2020
+Indonesia,Sumatera Barat,5545706,UNFPA,2020
+Indonesia,Sumatera Selatan,8600765,UNFPA,2020
+Indonesia,Sumatera Utara,14798404,UNFPA,2020
+Malaysia,Perlis,250000,MoH,2018
+Malaysia,Kedah,2180000,MoH,2018
+Malaysia,Pulau Pinang,1770000,MoH,2018
+Malaysia,Perak,2510000,MoH,2018
+Malaysia,Selangor,6530000,MoH,2018
+Malaysia,Negeri Sembilan,1130000,MoH,2018
+Malaysia,Melaka,930000,MoH,2018
+Malaysia,Johor,3760000,MoH,2018
+Malaysia,Pahang,1670000,MoH,2018
+Malaysia,Terengganu,1250000,MoH,2018
+Malaysia,Kelantan,1890000,MoH,2018
+Malaysia,Sabah,3900000,MoH,2018
+Malaysia,Sarawak,2810000,MoH,2018
+Malaysia,Wp Kuala Lumpur,1790000,MoH,2018
+Malaysia,Wp Putrajaya,1.00E+05,MoH,2018
+Malaysia,Wp Labuan,1.00E+05,MoH,2018
+India,Andaman and Nicobar Islands,402571.4112,MoH,2020
+India,Andhra Pradesh,53422441.03,MoH,2020
+India,Arunachal Pradesh,1824228.421,MoH,2020
+India,Assam,35996884.07,MoH,2020
+India,Bihar,129595941.7,MoH,2020
+India,Chandigarh,1227462.071,MoH,2020
+India,Chhattisgarh,31089033.22,MoH,2020
+India,Dadra and Nagar Haveli,486000.7088,MoH,2020
+India,Daman and Diu,470000,MoH,2020
+India,Delhi,20270061.46,MoH,2020
+India,Goa,1781179.52,MoH,2020
+India,Gujarat,68415488.52,MoH,2020
+India,Haryana,30033588.64,MoH,2020
+India,Himachal Pradesh,7674710.651,MoH,2020
+India,Jammu and Kashmir,14354889.13,MoH,2020
+India,Jharkhand,39207126.13,MoH,2020
+India,Karnataka,70774487.83,MoH,2020
+India,Kerala,34926745.23,MoH,2020
+India,Ladakh,335505.0178,MoH,2020
+India,Lakshadweep,67905.10174,MoH,2020
+India,Madhya Pradesh,85993235.36,MoH,2020
+India,Maharashtra,127216984,MoH,2020
+India,Manipur,2943783.069,MoH,2020
+India,Meghalaya,3787893.156,MoH,2020
+India,Mizoram,1168166.182,MoH,2020
+India,Nagaland,1978328.841,MoH,2020
+India,Odisha,47095630.48,MoH,2020
+India,Puducherry,1567980.736,MoH,2020
+India,Punjab,31426631.79,MoH,2020
+India,Rajasthan,81199068.03,MoH,2020
+India,Sikkim,691858.0124,MoH,2020
+India,Tamil Nadu,82597012.66,MoH,2020
+India,Telangana,39828362.11,MoH,2020
+India,Tripura,4118506.656,MoH,2020
+India,Uttar Pradesh,230907000,MoH,2020
+India,Uttarakhand,11890859.31,MoH,2020
+India,West Bengal,100133200.1,MoH,2020
